@@ -9,5 +9,5 @@ def test_name():
 
 
 def test_get_name():
-    str_name = get_name("Ravikant Verma")
-    assert str_name == "Ravikant Verma"
+    str_name = get_name("Ravikant")
+    assert str_name == "Ravikant"
